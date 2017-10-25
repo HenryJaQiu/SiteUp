@@ -4,7 +4,7 @@ title:  "1013_FormalMeeting #2"
 date:   2017-10-25 11:50:51 +0800
 categories: Minutes
 tags: Minutes
-description: This is the minute of #2 formal meeting.
+description: This is the minute of No.2 formal meeting.
 
 ---
 
