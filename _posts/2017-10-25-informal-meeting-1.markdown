@@ -4,7 +4,7 @@ title:  "0928_InformalMeeting #1"
 date:   2017-10-25 11:40:51 +0800
 categories: Minutes
 tags: Minutes
-description: This is the minute of #1 informal meeting.
+description: This is the minute of 1st informal meeting.
 
 ---
 
