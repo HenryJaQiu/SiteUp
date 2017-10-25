@@ -4,7 +4,7 @@ title:  "Welcome to Site Up of Group6!"
 date:   2017-10-23 17:57:51 +0800
 categories: Readme
 tags: Readme
-description: This is the Site-Up webpage for Software-Engineering-Project-1718 Group6.
+description: This is the Site-Up webpage for Software-Engineering-Project-1718 Group6 set by Hejia Qiu, and all meeting minutes is recorded and uploaded by Xiang Zhang if without special announcement.
 ---
 Project Theme: Sequential Monte Carlo
 
