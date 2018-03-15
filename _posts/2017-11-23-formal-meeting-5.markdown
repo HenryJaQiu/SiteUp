@@ -18,10 +18,10 @@ description: This is the minute of #5 formal meeting.
 ### Meeting Content ###
 
 1. Solve some PF matlab code problem.
-2. communicate the progress of two groups.
+2. Communicate the progress of two groups.
 3. Determine the work should be finished before 12.1.
 	- **algorithm**: finish algorithm-related part of report: intro.,application, adjustable arguments etc.
-	- **software Design**: finish the design-related part of report: software intro.,User interface design, user requiments etc. 
+	- **software Design**: finish the design-related part of report: software intro.,User interface design, user requirements etc.
 
 <br>
 ### Materials ###
