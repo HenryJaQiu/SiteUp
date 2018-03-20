@@ -4,7 +4,7 @@ title:  "1207_InformalMeeting #7"
 date:   2017-12-8 19:22:21 +0800
 categories: Minutes
 tags: Minutes
-description: This is the minute of #7 informal meeting.
+description: This is the minute of NO.7 informal meeting.
 
 ---
 

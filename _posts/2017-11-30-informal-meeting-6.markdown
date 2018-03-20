@@ -4,7 +4,7 @@ title:  "1130_InformalMeeting #6"
 date:   2017-11-31 16:08:21 +0800
 categories: Minutes
 tags: Minutes
-description: This is the minute of #6 informal meeting.
+description: This is the minute of NO.6 informal meeting.
 
 ---
 

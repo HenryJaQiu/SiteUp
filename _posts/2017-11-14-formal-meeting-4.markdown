@@ -4,7 +4,7 @@ title:  "1114_FormalMeeting #4"
 date:   2017-11-14 17:00:51 +0800
 categories: Minutes
 tags: Minutes
-description: This is the minute of #4 formal meeting.
+description: This is the minute of NO.4 formal meeting.
 
 ---
 
