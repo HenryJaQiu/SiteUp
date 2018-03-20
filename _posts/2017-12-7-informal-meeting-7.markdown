@@ -34,7 +34,7 @@ description: This is the minute of #7 informal meeting.
 
 2. Check if the combined report has something lost and fix them immediately.
 
-3. Finish the midterm report today.
+3. Finish the midtern report today.
 
 
 

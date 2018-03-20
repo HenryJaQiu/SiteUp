@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "2-28_InformalMeeting #8"
+title:  "0228_InformalMeeting #8"
 date:   2018-2-28 19:22:21 +0800
 categories: Minutes
 tags: Minutes
