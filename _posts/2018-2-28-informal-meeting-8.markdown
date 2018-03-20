@@ -49,9 +49,9 @@ Front-end: using HTML and JS or  Java?
 
 ### Materials ###
 
-https://docs.npmjs.com/getting-started/installing-node
-https://github.com/electron/electron
-https://www.jianshu.com/p/0deb70e6f395
+https://docs.npmjs.com/getting-started/installing-node<br>
+https://github.com/electron/electron<br>
+https://www.jianshu.com/p/0deb70e6f395<br>
 https://github.com/electron/electron-i18n/tree/master/content/zh-CN
 
 <br>
