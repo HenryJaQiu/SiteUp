@@ -1,0 +1,50 @@
+---
+layout: post
+title:  "0313_FormalMeeting #11"
+date:   2018-3-13 19:02:33 +0800
+categories: Minutes
+tags: Minutes
+description: This is the minute of NO.11 formal meeting.
+
+---
+
+
+
+# #11 Formal Meeting #
+
+<br>
+
+**Date:** 3.13
+
+**Attendance:** Hejia QIU, Zexi SONG, Cong LIU
+
+**Absence:** Xiang ZHANG, Kaiwen ZHANG
+
+
+
+
+<br>
+
+### Meeting Content ###
+
+
+
+
+1. Show the last word of vue-cli, electron-vue and electron-builder.
+
+2. Changes:
+   Original setting is overload images after the data, parameter or operator changes but this cost a lot of function of the user. So we decide to use the two-way binding fuction of echarts and vue in order to realize auto update instead of redraw, this method could decrease load of users and increase software efficiency and fluency.
+
+
+
+
+
+<br>
+
+### Materials ###
+https://molunerfinn.com/electron-vue-1/#%E5%89%8D%E8%A8%80
+
+<br>
+
+### Progress of the week ###
+
