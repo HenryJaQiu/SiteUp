@@ -32,7 +32,7 @@ description: This is the minute of NO.12 informal meeting.
 
 1. Share ideas about vue frame.
 
-2. Allocating task of the algorithm which translates language form Matlab to JS.
+2. Allocating task of the algorithm which translates language from Matlab to JS.
 
 
 

@@ -33,7 +33,7 @@ description: This is the minute of NO.11 formal meeting.
 1. Show the last word of vue-cli, electron-vue and electron-builder.
 
 2. Changes:
-   Original setting is overload images after the data, parameter or operator changes but this cost a lot of function of the user. So we decide to use the two-way binding fuction of echarts and vue in order to realize auto update instead of redraw, this method could decrease load of users and increase software efficiency and fluency.
+   Original setting is re-load images after the data, parameter or operator changes but this cost a lot of source. So we decide to use the two-way binding function of echarts and vue in order to auto update instead of re-load every time data changes. This method could decrease cost and increase software efficiency and fluency.
 
 
 
