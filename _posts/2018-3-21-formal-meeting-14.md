@@ -4,7 +4,7 @@ title:  "0321_FormalMeeting #14"
 date:   2018-3-21 19:06:59 +0800
 categories: Minutes
 tags: Minutes
-description: This is the minute of NO.14 informal meeting.
+description: This is the minute of NO.14 formal meeting.
 
 ---
 
