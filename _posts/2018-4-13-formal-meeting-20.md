@@ -1,3 +1,4 @@
+
 ---
 layout: post
 title:  "0413_FormalMeeting #20"
@@ -34,6 +35,7 @@ description: This is the minute of NO.20 formal meeting.
 3.The efficiency of the algorithm is proposed by the supervisor.
 <br>
 4.Some questions are answered by the supervisor for the idea that we want to add an algorithm.
+<br>
 5.We report the progress and detailed division of labor so far.
 
 
