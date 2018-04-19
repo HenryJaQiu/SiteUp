@@ -1,16 +1,16 @@
 ---
 layout: post
-title:  "0327_InformalMeeting #15"
+title:  "0327_InformalMeeting #18"
 date:   2018-3-27 19:00:51 +0800
 categories: Minutes
 tags: Minutes
-description: This is the minute of NO.15 informal meeting.
+description: This is the minute of NO.18 informal meeting.
 
 ---
 
 
 
-# #15 Informal Meeting #
+# #18 Informal Meeting #
 
 <br>
 
