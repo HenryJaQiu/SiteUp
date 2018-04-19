@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "1013_FormalMeeting #2"
-date:   2017-10-25 11:50:51 +0800
+date:   2017-10-13 11:50:51 +0800
 categories: Minutes
 tags: Minutes
 description: This is the minute of NO.2 formal meeting.
