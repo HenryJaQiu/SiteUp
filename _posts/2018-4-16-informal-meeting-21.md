@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "0416_InformalMeeting #17"``
+title:  "0416_InformalMeeting #17"
 date:   2018-4-16 18:52:11 +0800
 categories: Minutes
 tags: Minutes
