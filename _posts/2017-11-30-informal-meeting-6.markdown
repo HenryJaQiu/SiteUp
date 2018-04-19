@@ -1,16 +1,16 @@
----
+--
 layout: post
-title:  "1130_InformalMeeting #6"
-date:   2017-11-31 16:08:21 +0800
+title:  "1130_FormalMeeting #6"
+date:   2017-11-30 16:08:21 +0800
 categories: Minutes
 tags: Minutes
-description: This is the minute of NO.6 informal meeting.
+description: This is the minute of NO.7 formal meeting.
 
 ---
 
 
 
-# #6 Informal Meeting #
+# #7 Formal Meeting #
 
 <br>
 
