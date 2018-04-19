@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "0928_InformalMeeting #1"
-date:   2017-10-25 11:40:51 +0800
+date:   2017-9-28 11:40:51 +0800
 categories: Minutes
 tags: Minutes
 description: This is the minute of NO.1 informal meeting.
