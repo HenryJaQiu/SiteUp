@@ -1,6 +1,6 @@
 --
 layout: post
-title:  "1130_FormalMeeting #6"
+title:  "1130_FormalMeeting #7"
 date:   2017-11-30 16:08:21 +0800
 categories: Minutes
 tags: Minutes
