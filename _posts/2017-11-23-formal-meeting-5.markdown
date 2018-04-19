@@ -1,14 +1,14 @@
 ---
 layout: post
-title:  "1123_FormalMeeting #5"
+title:  "1123_FormalMeeting #6"
 date:   2017-11-23 17:00:51 +0800
 categories: Minutes
 tags: Minutes
-description: This is the minute of NO.5 formal meeting.
+description: This is the minute of NO.6 formal meeting.
 
 ---
 
-# #5 Formal Meeting #
+# #6 Formal Meeting #
 <br>
 **Date:** 11.23      
 **Attendance:** Liang DAI, Cong LIU, Hejia QIU, Zexi SONG,  Xiang ZHANG  
