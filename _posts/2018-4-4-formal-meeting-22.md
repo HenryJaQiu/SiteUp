@@ -1,16 +1,16 @@
 ---
 layout: post
-title:  "0404_FormalMeeting #19"
+title:  "0404_FormalMeeting #22"
 date:   2018-4-4 19:03:53 +0800
 categories: Minutes
 tags: Minutes
-description: This is the minute of NO.19 formal meeting.
+description: This is the minute of NO.22 formal meeting.
 
 ---
 
 
 
-# #19 Formal Meeting #
+# #22 Formal Meeting #
 
 <br>
 
