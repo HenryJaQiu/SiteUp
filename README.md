@@ -6,7 +6,7 @@ This is the site up website for UNNC GRP1718 Group6. Thanks for all contributers
 
 Thanks
 ======
-0，[](https://github.com/zxixia/jekyll-xixia).
+0，[Xixia](https://github.com/zxixia/jekyll-xixia).
 
 1，[Jekyll][jekyll-url]
 
